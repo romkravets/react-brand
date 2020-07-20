@@ -21,7 +21,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jsx.switch.disabled" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../react-network" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="SvnConfiguration">
@@ -36,6 +36,7 @@
       <updated>1594977987385</updated>
       <workItem from="1594977989077" duration="1967000" />
       <workItem from="1595061206551" duration="1473000" />
+      <workItem from="1595092763213" duration="18000" />
     </task>
     <servers />
   </component>
@@ -43,9 +44,9 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1595062686565">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1595092779938">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728/-1280.0.1280.984@0.0.1366.728" timestamp="1595062686565" />
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728/-1280.0.1280.984@0.0.1366.728" timestamp="1595092779938" />
   </component>
 </project>
