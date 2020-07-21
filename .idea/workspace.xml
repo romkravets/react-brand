@@ -22,7 +22,7 @@
     <list default="true" id="0a249ae9-da97-4aa9-acec-9b994911e4b5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/GoalItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/GoalItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/GoalInput.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/GoalInput.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +80,7 @@
       <workItem from="1595061206551" duration="1473000" />
       <workItem from="1595092763213" duration="18000" />
       <workItem from="1595322150815" duration="177000" />
-      <workItem from="1595322354372" duration="2790000" />
+      <workItem from="1595322354372" duration="6281000" />
     </task>
     <servers />
   </component>
