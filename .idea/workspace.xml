@@ -20,8 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a249ae9-da97-4aa9-acec-9b994911e4b5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/components/GoalInput.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +32,12 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1eoBIpcz8YBLZvsy8c7JJ1Nwscw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -44,6 +52,7 @@
     <property name="jsx.switch.disabled" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../react-network" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="ReactNative" factoryName="React Native">
@@ -71,6 +80,8 @@
       <workItem from="1594977989077" duration="1967000" />
       <workItem from="1595061206551" duration="1473000" />
       <workItem from="1595092763213" duration="18000" />
+      <workItem from="1595322150815" duration="177000" />
+      <workItem from="1595322354372" duration="1566000" />
     </task>
     <servers />
   </component>
@@ -87,6 +98,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595258705745">
@@ -97,10 +109,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="482" y="219" key="#com.jetbrains.plugins.reactnative.ReactNativePackagerConfigurationEditor/0.0.1366.728/-1280.0.1280.984@0.0.1366.728" timestamp="1595258685679" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1595092779938">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1595322161460">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728/-1280.0.1280.984@0.0.1366.728" timestamp="1595092779938" />
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728/-1280.0.1280.984@0.0.1366.728" timestamp="1595322161460" />
+    <state x="184" y="8" key="SettingsEditor" timestamp="1595322370111">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="8" key="SettingsEditor/0.0.1366.728/-1280.0.1280.984@0.0.1366.728" timestamp="1595322370111" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1595258477824">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
