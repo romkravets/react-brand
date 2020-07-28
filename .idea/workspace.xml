@@ -20,7 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a249ae9-da97-4aa9-acec-9b994911e4b5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/components/NumberContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screens/GameScreen.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/screens/StartGameScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/screens/StartGameScreen.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,6 +84,7 @@
       <workItem from="1595092763213" duration="18000" />
       <workItem from="1595771079140" duration="627000" />
       <workItem from="1595772201401" duration="4718000" />
+      <workItem from="1595925688394" duration="2631000" />
     </task>
     <servers />
   </component>
@@ -104,10 +108,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/-1280.0.1280.984@0.0.1366.728" timestamp="1595772466544" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1595092779938">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1595778753760">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728/-1280.0.1280.984@0.0.1366.728" timestamp="1595092779938" />
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728/-1280.0.1280.984@0.0.1366.728" timestamp="1595778753760" />
     <state x="184" y="8" key="SettingsEditor" timestamp="1595772911127">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
