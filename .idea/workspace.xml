@@ -20,10 +20,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a249ae9-da97-4aa9-acec-9b994911e4b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/screens/GameOverScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/BodyText.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/splash.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/splash.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Card.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Card.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Input.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Input.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/NumberContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/NumberContainer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constants/colors.js" beforeDir="false" afterPath="$PROJECT_DIR$/constants/colors.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/GameOverScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/screens/GameOverScreen.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/screens/GameScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/screens/GameScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/StartGameScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/screens/StartGameScreen.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +97,8 @@
       <workItem from="1595771079140" duration="627000" />
       <workItem from="1595772201401" duration="4718000" />
       <workItem from="1595925688394" duration="5409000" />
+      <workItem from="1596307929726" duration="3492000" />
+      <workItem from="1596437727908" duration="2609000" />
     </task>
     <servers />
   </component>
