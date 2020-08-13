@@ -7,7 +7,7 @@ import HeaderButton from '../components/HeaderButton';
 import { HeaderButtons, Item } from 'react-navigation-header-buttons';
 
 const FavoritesScreen = props => {
-    const favMeals = useSelector(state => state.meals.meals);
+    const favMeals = useSelector(state => state.meals.favoriteMeals);
 
 
     // const favMeals = MEALS.filter(meal => meal.id === 'm1' || meal.id === 'm2');
