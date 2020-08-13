@@ -1,10 +1,10 @@
-import React, {useState} from 'react';
+import React, { useState } from 'react';
 import { StyleSheet, Text, View, Button } from 'react-native';
 import * as Font from 'expo-font';
-import {AppLoading} from 'expo';
+import { AppLoading } from 'expo';
 import { useScreens } from 'react-native-screens';
-import {createStore, combineReducers} from 'redux';
-import {Provider} from 'react-redux'
+import { createStore, combineReducers } from 'redux';
+import { Provider } from 'react-redux'
 
 import MealsNavigator from './navigation/MealsNavigator';
 import mealsReducer from './store/reducers/meals';
