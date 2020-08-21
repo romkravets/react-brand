@@ -1,10 +1,10 @@
 class Product {
-   constructor(id, ownerId, title, imageUrl, descriprion, price) {
+   constructor(id, ownerId, title, imageUrl, description, price) {
       this.id = id;
       this.ownerId = ownerId;
       this.title = title;
       this.imageUrl = imageUrl;
-      this.descriprion = descriprion;
+      this.description = description;
       this.price = price;
    }
 }
