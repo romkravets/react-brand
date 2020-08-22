@@ -2,8 +2,8 @@ import React, {useState} from 'react';
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View, Button } from 'react-native';
 import { createStore, combineReducers } from 'redux';
-import {Provider} from 'react-redux';
-import {AppLoading} from 'expo';
+import { Provider } from 'react-redux';
+import { AppLoading } from 'expo';
 import * as Font from 'expo-font';
 
 import productsReducers from './store/reducers/products';
@@ -25,17 +25,15 @@ const fetchFonts = () => {
 export default function App() {
   const [fontLoaded, setFontLoaded] = useState(false);
   if(!fontLoaded) {
-    return <AppLoading startAsync={fetchFonts} onFinish={() => {
-      setFontLoaded(true);
-    }}/>
-  }
+    return <AppLoading
+            startAsync={fetchFonts}
+            onFinish={() => {
+            setFontLoaded(true);
+          }}/>
+        }
   return (
     <Provider store={store}>
       <ShopNavigator/>
     </Provider>
   );
 }
-
-// const styles = StyleSheet.create({
-
-// });

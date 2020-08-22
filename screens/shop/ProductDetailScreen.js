@@ -7,7 +7,6 @@ import Colors from '../../constants/Colors';
 const PrductDetaileScreen = props => {
    const productId = props.navigation.getParam('productId');
    const selectProduct = useSelector(state => state.products.availableProducts.find(prod => prod.id === productId));
-   console.log(selectProduct);
    return (
    <ScrollView>
      <Image style={styles.image} source={{uri: selectProduct.imageUrl}}/>
