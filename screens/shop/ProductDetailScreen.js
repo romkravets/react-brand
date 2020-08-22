@@ -4,7 +4,7 @@ import { useSelector } from 'react-redux'
 
 import Colors from '../../constants/Colors';
 
-const PrductDetaileScreen = props => {
+const ProductDetaileScreen = props => {
    const productId = props.navigation.getParam('productId');
    const selectProduct = useSelector(state => state.products.availableProducts.find(prod => prod.id === productId));
    return (
@@ -18,7 +18,7 @@ const PrductDetaileScreen = props => {
    </ScrollView>
    )
 }
-PrductDetaileScreen.navigationOptions = navData => {
+ProductDetaileScreen.navigationOptions = navData => {
    return {
       headerTitle: navData.navigation.getParam('productTitle')
    };
@@ -48,4 +48,4 @@ const styles = StyleSheet.create({
    }
 });
 
-export default PrductDetaileScreen;
+export default ProductDetaileScreen;
